@@ -1,15 +1,6 @@
 <p align="center">
 <img src="https://1.bp.blogspot.com/-GW5Wm4OnvqU/XlzVbMuEkZI/AAAAAAAADgU/U5GlzmVLZUctV7phDci8NIh7CQX8YepQgCLcBGAsYHQ/s320/MyIcon2.png" width="128" height="128"/>
 </p>
-<p align="center">
-<a href="#"><img title="SPL-Win-Box-ToolKit-V.1" src="https://img.shields.io/badge/SPLWin Box-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/TheSploit"><img title="Author" ></a>
-</p>
-<p align="center">
-<a href="https://github.com/TheSploit/followers"><img title="Followers" src="https://img.shields.io/github/followers/TheSploit?color=blue&style=flat-square"></a>
-</p>
 
 ## SPL-Win-Box-ToolKit-V.1 Features 
 
